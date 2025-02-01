@@ -1,4 +1,4 @@
-# cpp_-
+# cpp_earn number by hui
 c++练习 回形取数
 
 题目描述
